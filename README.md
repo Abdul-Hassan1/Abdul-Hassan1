@@ -6,7 +6,7 @@ I am a Computer Science student at the **University of Illinois Chicago**. I am 
 
 | Project | Tech Stack | Key Achievement |
 | :--- | :--- | :--- |
-| **[Word Ladder Solver](#)** | C, BFS, Valgrind | Shortest-path transformation using queue-based BFS and zero memory leaks |
+| **[Word Ladder Solver](https://github.com/Abdul-Hassan1/WordLadder)** | C, BFS, Valgrind | Shortest-path transformation using queue-based BFS and zero memory leaks |
 
 ## Technical Skills
 
