@@ -19,5 +19,5 @@ I am a Computer Science student at the **University of Illinois Chicago**[cite: 
 
 ## 📬 Connect with Me
 
-* [cite_start]**LinkedIn:** [Click here to view my professional profile][cite: 6]
+* [cite_start]**LinkedIn:** [Click here to view my professional profile](https://www.linkedin.com/in/abdul-hassan-50188a2b3)
 * [cite_start]**Email:** abdulhas2401@gmail.com [cite: 5]
