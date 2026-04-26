@@ -8,8 +8,8 @@ I am a Computer Science student at the **University of Illinois Chicago**[cite: 
 
 | Project | Tech Stack | Key Achievement |
 | :--- | :--- | :--- |
-| **[Word Ladder Solver](#)** | C, BFS, Valgrind | [cite_start]Shortest-path transformation using queue-based BFS and zero memory leaks[cite: 31, 33, 36]. |
-| **[Automated Flight Booking](#)** | Java, Selenium | [cite_start]Automates United Airlines searches with 100% accuracy in dynamic data entry[cite: 24, 25, 27]. |
+| **[Word Ladder Solver](#)** | C, BFS, Valgrind | Shortest-path transformation using queue-based BFS and zero memory leaks |
+| **[Automated Flight Booking](#)** | Java, Selenium | Automates United Airlines searches with 100% accuracy in dynamic data entry |
 
 ## Technical Skills
 
@@ -20,4 +20,5 @@ I am a Computer Science student at the **University of Illinois Chicago**[cite: 
 ## Connect with Me
 
 **LinkedIn:** [Click here to view my professional profile](https://www.linkedin.com/in/abdul-hassan-50188a2b3)
+
 **Email:** abdulhas2401@gmail.com
