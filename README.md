@@ -13,11 +13,11 @@ I am a Computer Science student at the **University of Illinois Chicago**[cite: 
 
 ## Technical Skills
 
-* [cite_start]**Languages:** Java, JavaScript, Python, C/C++, and SQL[cite: 12].
-* [cite_start]**Databases:** Oracle Database and MySQL[cite: 13].
-* [cite_start]**Automation & Tools:** Selenium WebDriver, Makefiles, GDB, and Valgrind[cite: 14].
+**Languages:** Java, JavaScript, Python, C/C++, and SQL.
+**Databases:** Oracle Database and MySQL.
+**Automation & Tools:** Selenium WebDriver, Makefiles, GDB, and Valgrind.
 
-## 📬 Connect with Me
+## Connect with Me
 
-* [cite_start]**LinkedIn:** [Click here to view my professional profile](https://www.linkedin.com/in/abdul-hassan-50188a2b3)
-* [cite_start]**Email:** abdulhas2401@gmail.com [cite: 5]
+**LinkedIn:** [Click here to view my professional profile](https://www.linkedin.com/in/abdul-hassan-50188a2b3)
+**Email:** abdulhas2401@gmail.com
