@@ -7,7 +7,6 @@ I am a Computer Science student at the **University of Illinois Chicago**. I am 
 | Project | Tech Stack | Key Achievement |
 | :--- | :--- | :--- |
 | **[Word Ladder Solver](#)** | C, BFS, Valgrind | Shortest-path transformation using queue-based BFS and zero memory leaks |
-| **[Automated Flight Booking](#)** | Java, Selenium | Automates United Airlines searches with 100% accuracy in dynamic data entry |
 
 ## Technical Skills
 
