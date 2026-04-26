@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hello, I'm Abdul Hassan
 
 I am a Computer Science student at the **University of Illinois Chicago**. I am building a strong foundation in software development, with a specific focus on **systems programming** and **automation**. My technical journey began at the **College of DuPage**, where I specialized in Advanced C++ and Python.
